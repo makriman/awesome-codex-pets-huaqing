@@ -243,6 +243,25 @@ best-effort; if it does not switch the visible pet, use the same UI path.
 <table>
   <tr>
     <th>Name</th>
+    <td colspan="5"><a href="https://github.com/makriman/Chhota-Bheem-pet">Chotu</a> - by <a href="https://github.com/makriman">@makriman</a> - Anime Characters</td>
+  </tr>
+  <tr>
+    <th>Install</th>
+    <td colspan="5"><code>npx awesome-codex-pets install chotu--makriman</code><br/><code>curl -fsSL https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/scripts/install-pet.sh | bash -s -- chotu--makriman</code></td>
+  </tr>
+  <tr>
+    <th>Action</th>
+    <th>Idle</th><th>Waving</th><th>Running</th><th>Waiting</th><th>Review</th>
+  </tr>
+  <tr>
+    <th>Preview</th>
+    <td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/idle.gif" alt="Chotu Idle" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/waving.gif" alt="Chotu Waving" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/running.gif" alt="Chotu Running" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/waiting.gif" alt="Chotu Waiting" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/review.gif" alt="Chotu Review" width="96" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Name</th>
     <td colspan="5"><a href="https://github.com/huaqingai/awesome-codex-pets/tree/main/pets/dnf-female-ammo--qunboo">女弹药Q</a> - by <a href="https://github.com/QunBoo">@QunBoo</a> - Anime Characters</td>
   </tr>
   <tr>
@@ -389,25 +408,6 @@ best-effort; if it does not switch the visible pet, use the same UI path.
   <tr>
     <th>Preview</th>
     <td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/reimu--lingxiaotian/idle.gif" alt="Reimu Idle" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/reimu--lingxiaotian/waving.gif" alt="Reimu Waving" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/reimu--lingxiaotian/running.gif" alt="Reimu Running" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/reimu--lingxiaotian/waiting.gif" alt="Reimu Waiting" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/reimu--lingxiaotian/review.gif" alt="Reimu Review" width="96" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Name</th>
-    <td colspan="5"><a href="https://github.com/HuaqingAI/awesome-codex-pets/tree/main/pets/chotu--makriman">Chotu</a> - by <a href="https://github.com/makriman">@makriman</a> - Anime Characters</td>
-  </tr>
-  <tr>
-    <th>Install</th>
-    <td colspan="5"><code>npx awesome-codex-pets install chotu--makriman</code><br/><code>curl -fsSL https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/scripts/install-pet.sh | bash -s -- chotu--makriman</code></td>
-  </tr>
-  <tr>
-    <th>Action</th>
-    <th>Idle</th><th>Waving</th><th>Running</th><th>Waiting</th><th>Review</th>
-  </tr>
-  <tr>
-    <th>Preview</th>
-    <td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/idle.gif" alt="Chotu Idle" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/waving.gif" alt="Chotu Waving" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/running.gif" alt="Chotu Running" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/waiting.gif" alt="Chotu Waiting" width="96" /></td><td><img src="https://raw.githubusercontent.com/huaqingai/awesome-codex-pets/main/assets/previews/chotu--makriman/review.gif" alt="Chotu Review" width="96" /></td>
   </tr>
 </table>
 
